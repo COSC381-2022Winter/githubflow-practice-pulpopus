@@ -15,3 +15,5 @@ To run Flask App:
 
 -Navigate to http://127.0.0.1:5000/movies/ in browser to view site
 
+**If an error is encountered, switch python interpreter & try running again
+
