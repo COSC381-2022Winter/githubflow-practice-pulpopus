@@ -3,7 +3,9 @@ README
 
 To run Flask App:
 
-- Create virtual environment & install into it dependencies from requirements.txt
+- Create virtual environment & activate it
+
+- Install into venv dependencies from requirements.txt
 
 - Setup environment variables with <source env-var.sh>
 
